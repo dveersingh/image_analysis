@@ -2,7 +2,7 @@
 
         docker build --tag flask_app .
 
-        docker run --name flask-app -p 5000:5000 flask-app
+        docker run --name flask_app -p 5000:5000 flask_app
 
 
 ## Without Docker
