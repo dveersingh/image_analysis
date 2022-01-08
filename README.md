@@ -18,6 +18,6 @@ http://localhost:5000/
 
 http://localhost:5000/upload_image
 
-http://localhost:5000/analysis_image
+http://localhost:5000//analyse_image'
 
 http://localhost:5000/list_images
