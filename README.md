@@ -1,4 +1,11 @@
-### image_analysis
+## With Docker
+
+        docker build --tag flask_app .
+
+        docker run --name flask-app -p 5000:5000 flask-app
+
+
+## Without Docker
     
 #### There are 2 requirements to run this flask app : flask and pillow
 
